@@ -32,7 +32,7 @@ I am an **AI/ML Engineer** and **Full Stack Developer** specializing in the inte
 
 * 🔭 **Current Directive:** Architecting Agentic AI workflows & Multimodal Systems.
 * 🌱 **Learning Protocol:** Advanced System Design, Cloud Native Architectures (GCP).
-* 🛡️ **Core Domain:** NLP Optimization, 3D Web Visualization (Three.js), LLM Integration.
+* 🛡️ **Core Domain:** NLP Optimization, LLMs and API Integration, AIML
 
 ---
 
