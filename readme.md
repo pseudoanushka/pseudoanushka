@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="100%" alt="header" style="border-radius: 8px; margin-bottom: 20px;" />
+  <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="50%" alt="header" style="border-radius: 8px; margin-bottom: 20px;" />
 
   <h1 style="font-size: 2.5rem; letter-spacing: 2px;">ANUSHKA PANKAJ GUPTA</h1>
   
